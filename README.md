@@ -1,1 +1,1 @@
-# todolist
+This simple Java program includes classes for Task and ToDoList. The main application (ToDoListApp) provides a console-based menu for users to interact with the to-do list functionalities. Feel free to modify or expand upon this project as needed
